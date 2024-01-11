@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\QuanLyInAn\QuanLyInAn\bin\x86\Debug\QuanLyInAn.exe.config
+C:\Users\Admin\documents\visual studio 2013\Projects\QuanLyInAn\QuanLyInAn\bin\x86\Debug\QuanLyInAn.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\QuanLyInAn\QuanLyInAn\bin\x86\Debug\QuanLyInAn.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\QuanLyInAn\QuanLyInAn\obj\x86\Debug\QuanLyInAn.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2013\Projects\QuanLyInAn\QuanLyInAn\obj\x86\Debug\QuanLyInAn.fMain.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\QuanLyInAn\QuanLyInAn\obj\x86\Debug\QuanLyInAn.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\QuanLyInAn\QuanLyInAn\obj\x86\Debug\QuanLyInAn.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2013\Projects\QuanLyInAn\QuanLyInAn\obj\x86\Debug\QuanLyInAn.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\QuanLyInAn\QuanLyInAn\obj\x86\Debug\QuanLyInAn.pdb
